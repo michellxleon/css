@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Arsenal+SC:ital,wght@0,400;0,700;1,400;1,700&family=Ga+Maamli&display=swap');
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Ga Maamli", sans-serif;
+}
+
+p{
+  font-size:40px;
+  font-size: 2rem;
+  color: blueviolet;
+  text-align: center;
+  text-align: justify;
+  text-align: left;
+  text-align: right;
+  text-transform: uppercase;
+  font-weight: 10;
+  line-height: 1.5;
+  text-shadow: 1px 1px 4px #4c0bc3;
+}
+a{
+  text-decoration: none;
+  font-size: 60px;
+  color: white;
+  cursor: pointer;
+  background-color: brown;
+  border: solid 2px;
+  border-color:forestgreen ;
+  border-radius: 30px;
+}

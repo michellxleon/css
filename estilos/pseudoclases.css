@@ -1,0 +1,28 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: 0;
+}
+
+.enlace{
+  display: block;
+  background-color: tomato;
+  color: #fff;
+  text-decoration: none;
+  margin-bottom: 20px;
+  border-bottom: solid 3px #000;
+  transition: 0.5s;
+}
+
+.enlace:link{
+  background-color: aqua;
+  color: #000;
+}
+
+.enlace:visited{
+  background-color: rgb(90, 65, 203);
+}
+
+.enlace:hover{
+  background-color: rgb(47, 174, 25);
+}
