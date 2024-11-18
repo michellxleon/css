@@ -58,6 +58,7 @@ section{
 nav{
   /*height: 70px;*/
   }
+  
   .nav__contenedor{
     display: flex;
     justify-content: space-between;
@@ -133,8 +134,9 @@ flex-basis: 50%;
 }
 
 .logo3{
-  height: 400px;
+  height: 300px;
   width: 300px;
+
 }
 
 .btn--negro{
@@ -198,3 +200,5 @@ margin-bottom: 20px;
 margin-bottom: 25px;
 }
 
+
+/* ++++++++++++galeria++++++++++++++++*/
